@@ -7,4 +7,4 @@ This commit also goes into repo
 
 This commit doesn't go into the repo...
 
-Adding changes from github in browser
+adding changes from github in browser
