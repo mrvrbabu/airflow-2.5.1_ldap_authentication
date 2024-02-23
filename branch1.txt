@@ -1,3 +1,5 @@
 This file is created in branch testbranch
 
+Adding this line from commandline in rebasebranch
+
 Adding line from inside rebase branch
